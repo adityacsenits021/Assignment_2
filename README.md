@@ -1,4 +1,4 @@
-# Assignment_1
+# Assignment_2
 CS 201, Data Structures
 
 Department of Computer Science and Engineering,
